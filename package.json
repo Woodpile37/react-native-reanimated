@@ -74,8 +74,8 @@
   },
   "homepage": "https://github.com/software-mansion/react-native-reanimated#readme",
   "dependencies": {
-    "@babel/plugin-transform-object-assign": "^7.16.7",
-    "@babel/preset-typescript": "^7.16.7",
+    "@babel/plugin-transform-object-assign": "^7.18.6",
+    "@babel/preset-typescript": "^7.21.0",
     "convert-source-map": "^1.7.0",
     "invariant": "^2.2.4",
     "lodash.isequal": "^4.5.0",
