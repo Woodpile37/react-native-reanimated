@@ -15,7 +15,7 @@
     "glob-to-regexp": "^0.4.1",
     "lodash.isequal": "^4.5.0",
     "react": "18.0.0",
-    "react-native": "npm:react-native-tvos@0.69.5-2"
+    "react-native": "0.69.5"
   },
   "devDependencies": {
     "@babel/core": "^7.12.9",
@@ -23,7 +23,7 @@
     "@react-native-community/eslint-config": "^2.0.0",
     "babel-jest": "^26.6.3",
     "eslint": "^7.32.0",
-    "jest": "^26.6.3",
+    "jest": "^27.0.0",
     "metro-react-native-babel-preset": "^0.70.3",
     "react-test-renderer": "18.0.0"
   },
